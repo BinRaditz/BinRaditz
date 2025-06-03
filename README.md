@@ -9,7 +9,7 @@ I'm a graduate in Electrical Engineering with a specialization in Automation. Pa
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [bin.rahchahun@gmail.com](mailto:bin.rahchahun@gmail.com)
 * ⚡  I’m the Flash… not for speed on foot, but for how fast I can write code.
-* ![Image](https://github.com/user-attachments/assets/a37a255f-ae27-4faa-95d0-c9103f89a307)
+![Image](https://github.com/user-attachments/assets/a37a255f-ae27-4faa-95d0-c9103f89a307)
 
 ### Skills
 
